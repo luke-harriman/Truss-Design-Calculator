@@ -1,6 +1,6 @@
 # Truss Design Calculator
 
-The following repository enables engineers in easily calculate the internal force, stress and strain of each member within any 2-D truss design. The code takes in the following inputs:
+The following repository enables engineers to easily calculate the internal force, stress and strain of each member within any 2-D truss design. The code takes in the following inputs:
 
 1. **Nodes**: A single point that represents a joint. 
 2. **Members**: A line beam that connects two nodes. 
